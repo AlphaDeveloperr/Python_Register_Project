@@ -1,0 +1,4 @@
+Isim = ['osman']
+E-posta = ['osman123']
+Yas = ['18']
+Id = [1]
