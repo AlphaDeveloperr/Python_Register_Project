@@ -1,1 +1,1 @@
-# Python_Register_Project
+In this code I wrote myself, I wrote a simple member or person registration automation using the python programming language. In this automation, there are options to register, query a person, query the database and delete records. There is also the option to log in, but it is not yet complete. I will update the codes when it is completed.
